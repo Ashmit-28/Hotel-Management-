@@ -1,4 +1,5 @@
 🏨 Hotel Management System — SQL Database Project
+
 📌 Project Overview
 
 This project is a Hotel Management System Database developed using MySQL, designed to manage hotel operations such as guest details, room bookings, staff management, and additional services.
